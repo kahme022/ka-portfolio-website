@@ -1,7 +1,6 @@
 .about {
   flex-direction: column;
-  margin-top: 5.5em;
-  margin-bottom: 10.5em;
+  margin-top: 3.5em;
 }
 
 .about__name {
@@ -34,6 +33,5 @@
   .app .about {
     align-items: flex-start;
     margin-top: 2em;
-    margin-bottom: 0em;
   }
 }
