@@ -1,5 +1,5 @@
 const header = {
-  homepage: 'https://632fa2de299c480ca3ae7608--aesthetic-jalebi-b8f1d0.netlify.app/',
+  homepage: '',
   title: '<Ka />',
 }
 
